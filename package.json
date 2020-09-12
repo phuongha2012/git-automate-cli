@@ -1,0 +1,16 @@
+{
+  "name": "git-automate-cli",
+  "version": "1.0.0",
+  "description": "a cli tool to automate the initialisation of git",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "cli"
+  ],
+  "author": "Hayley Ha",
+  "license": "ISC"
+}
